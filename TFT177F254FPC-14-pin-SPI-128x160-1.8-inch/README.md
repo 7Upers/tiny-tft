@@ -35,7 +35,7 @@ Pinout:
 * 13 VSS
 * 14 NC
 
-http://forum.easyelectronics.ru/viewtopic.php?t=13281
-https://code.google.com/archive/p/lpc1343codebase/source#svn%2Ftrunk%2Fdrivers%2Flcd%2Ftft%2Fhw
-https://developer.mbed.org/users/smultron1977/notebook/spi-18-tft--mbed-work-in-progress/
-http://arduino-kit.ru/catalog/id/displey-144_-tft-s-kontrollerom-st7735
+http://forum.easyelectronics.ru/viewtopic.php?t=13281<br>
+https://code.google.com/archive/p/lpc1343codebase/source#svn%2Ftrunk%2Fdrivers%2Flcd%2Ftft%2Fhw<br>
+https://developer.mbed.org/users/smultron1977/notebook/spi-18-tft--mbed-work-in-progress/<br>
+http://arduino-kit.ru/catalog/id/displey-144_-tft-s-kontrollerom-st7735<br>
